@@ -1,0 +1,2710 @@
+<msg time='2023-10-13T23:02:49.915-07:00' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1941:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='DESKTOP-UGVAE0T' host_addr='fe80::55d0:fbd0:dee6:4ae6%12'
+ version='1'>
+ <txt>Create Relation ADR_CONTROL
+ </txt>
+</msg>
+<msg time='2023-10-13T23:02:49.931-07:00' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1941:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='DESKTOP-UGVAE0T' host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>Create Relation ADR_INVALIDATION
+ </txt>
+</msg>
+<msg time='2023-10-13T23:02:49.941-07:00' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1941:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='DESKTOP-UGVAE0T' host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>Create Relation INC_METER_IMPT_DEF
+ </txt>
+</msg>
+<msg time='2023-10-13T23:02:49.964-07:00' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1941:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='DESKTOP-UGVAE0T' host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>Create Relation INC_METER_PK_IMPTS
+ </txt>
+</msg>
+<msg time='2023-10-13T23:02:49.979-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] []
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:04.615-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:04.616-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-UGVAE0T)(USER=admin))))
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:04.616-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:04.616-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>  Time: 13-OCT-2023 23:03:04
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:04.616-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:04.616-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:04.616-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:04.616-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:04.635-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:04.636-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:04.636-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:04.636-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:04.636-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:04.636-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:04.636-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:18.897-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:18.897-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-UGVAE0T)(USER=admin))))
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:18.897-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:18.897-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>  Time: 13-OCT-2023 23:03:18
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:18.897-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:18.897-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:18.897-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:18.897-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:18.897-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:18.897-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:18.897-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:18.914-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:18.914-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:18.914-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2023-10-13T23:03:18.914-07:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2023-12-02T07:51:32.279+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] []
+ </txt>
+</msg>
+<msg time='2024-01-13T19:05:46.355+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] []
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:32.719+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:32.719+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-UGVAE0T)(USER=admin))))
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:32.719+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:32.719+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>  Time: 13-JAN-2024 19:51:32
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:32.719+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:32.719+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:32.719+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:32.719+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:32.719+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:32.719+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:32.719+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:32.719+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:32.735+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:32.735+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:32.735+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:49.047+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:49.047+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-UGVAE0T)(USER=admin))))
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:49.047+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:49.047+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>  Time: 13-JAN-2024 19:51:49
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:49.047+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:49.047+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:49.047+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:49.063+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:49.063+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:49.063+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:49.063+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:49.063+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:49.078+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:49.078+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>    nt secondary err code: 203
+ </txt>
+</msg>
+<msg time='2024-01-13T19:51:49.078+03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::55d0:fbd0:dee6:4ae6%12'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:02:16.210+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] []
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:39.690+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:39.690+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-UGVAE0T)(USER=admin))))
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:39.690+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:39.690+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Time: 01-DEC-2024 10:03:39
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:39.690+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:39.690+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:39.690+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:39.706+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:39.706+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:39.706+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:39.706+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:39.706+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:39.722+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:39.722+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt secondary err code: 233
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:39.722+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:58.904+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:58.904+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-UGVAE0T)(USER=admin))))
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:58.904+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:58.904+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Time: 01-DEC-2024 10:03:58
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:58.904+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:58.904+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:58.920+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:58.920+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:58.920+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:58.920+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:58.920+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:58.920+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:58.920+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:58.920+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt secondary err code: 233
+ </txt>
+</msg>
+<msg time='2024-12-01T10:03:58.936+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:07:41.212+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2024-12-01T10:07:41.212+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-UGVAE0T)(USER=admin))))
+ </txt>
+</msg>
+<msg time='2024-12-01T10:07:41.212+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2024-12-01T10:07:41.212+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Time: 01-DEC-2024 10:07:41
+ </txt>
+</msg>
+<msg time='2024-12-01T10:07:41.228+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2024-12-01T10:07:41.228+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2024-12-01T10:07:41.228+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2024-12-01T10:07:41.228+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:07:41.228+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:07:41.228+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:07:41.228+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2024-12-01T10:07:41.228+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:07:41.228+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:07:41.228+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt secondary err code: 233
+ </txt>
+</msg>
+<msg time='2024-12-01T10:07:41.228+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:09:30.812+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2024-12-01T10:09:30.812+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-UGVAE0T)(USER=admin))))
+ </txt>
+</msg>
+<msg time='2024-12-01T10:09:30.812+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2024-12-01T10:09:30.812+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Time: 01-DEC-2024 10:09:30
+ </txt>
+</msg>
+<msg time='2024-12-01T10:09:30.828+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2024-12-01T10:09:30.828+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2024-12-01T10:09:30.832+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2024-12-01T10:09:30.833+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:09:30.833+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:09:30.833+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:09:30.833+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2024-12-01T10:09:30.833+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:09:30.833+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:09:30.833+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt secondary err code: 233
+ </txt>
+</msg>
+<msg time='2024-12-01T10:09:30.833+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:11:18.710+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] []
+ </txt>
+</msg>
+<msg time='2024-12-01T10:13:34.576+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] []
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:06.703+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] []
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:14.941+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:14.941+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-UGVAE0T)(USER=admin))))
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:14.941+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:14.941+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Time: 01-DEC-2024 10:15:14
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:14.956+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:14.956+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:14.961+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:14.961+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:14.961+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:14.961+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:14.961+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:14.961+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:14.961+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:14.961+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt secondary err code: 233
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:14.961+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:22.315+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:22.323+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-UGVAE0T)(USER=admin))))
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:22.323+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:22.323+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Time: 01-DEC-2024 10:15:22
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:22.323+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:22.331+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:22.331+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:22.331+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:22.339+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:22.339+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:22.339+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:22.339+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:22.347+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:22.347+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt secondary err code: 233
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:22.347+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:58.929+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:58.929+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-UGVAE0T)(USER=admin))))
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:58.929+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:58.929+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Time: 01-DEC-2024 10:15:58
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:58.929+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:58.929+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:58.929+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:58.940+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:58.940+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:58.940+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:58.940+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:58.940+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:58.940+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:58.940+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt secondary err code: 233
+ </txt>
+</msg>
+<msg time='2024-12-01T10:15:58.949+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:05.899+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:05.899+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-UGVAE0T)(USER=admin))))
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:05.907+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:05.907+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Time: 01-DEC-2024 10:16:05
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:05.915+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:05.915+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:05.915+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:05.915+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:05.923+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:05.923+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:05.923+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:05.923+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:05.932+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:05.932+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt secondary err code: 233
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:05.932+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:48.221+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:48.231+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-UGVAE0T)(USER=admin))))
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:48.235+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:48.235+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Time: 01-DEC-2024 10:16:48
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:48.241+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:48.241+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:48.246+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:48.251+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:48.256+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:48.256+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:48.261+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:48.261+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:48.261+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:48.261+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt secondary err code: 233
+ </txt>
+</msg>
+<msg time='2024-12-01T10:16:48.261+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:17:34.081+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2024-12-01T10:17:34.081+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-UGVAE0T)(USER=admin))))
+ </txt>
+</msg>
+<msg time='2024-12-01T10:17:34.081+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2024-12-01T10:17:34.081+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Time: 01-DEC-2024 10:17:34
+ </txt>
+</msg>
+<msg time='2024-12-01T10:17:34.089+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2024-12-01T10:17:34.089+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2024-12-01T10:17:34.089+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2024-12-01T10:17:34.097+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:17:34.097+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:17:34.097+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:17:34.106+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2024-12-01T10:17:34.106+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:17:34.106+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:17:34.106+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt secondary err code: 233
+ </txt>
+</msg>
+<msg time='2024-12-01T10:17:34.114+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:18:30.144+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2024-12-01T10:18:30.144+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-UGVAE0T)(USER=admin))))
+ </txt>
+</msg>
+<msg time='2024-12-01T10:18:30.149+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2024-12-01T10:18:30.149+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Time: 01-DEC-2024 10:18:30
+ </txt>
+</msg>
+<msg time='2024-12-01T10:18:30.149+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2024-12-01T10:18:30.149+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2024-12-01T10:18:30.149+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2024-12-01T10:18:30.149+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:18:30.149+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:18:30.149+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:18:30.164+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2024-12-01T10:18:30.164+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:18:30.169+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:18:30.169+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt secondary err code: 233
+ </txt>
+</msg>
+<msg time='2024-12-01T10:18:30.169+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:25:22.998+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2024-12-01T10:25:22.998+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-UGVAE0T)(USER=admin))))
+ </txt>
+</msg>
+<msg time='2024-12-01T10:25:22.998+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2024-12-01T10:25:22.998+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Time: 01-DEC-2024 10:25:22
+ </txt>
+</msg>
+<msg time='2024-12-01T10:25:22.998+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2024-12-01T10:25:22.998+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2024-12-01T10:25:22.998+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2024-12-01T10:25:22.998+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:25:23.014+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:25:23.014+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:25:23.014+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2024-12-01T10:25:23.014+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:25:23.014+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:25:23.014+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt secondary err code: 233
+ </txt>
+</msg>
+<msg time='2024-12-01T10:25:23.014+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:20.415+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] []
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:31.606+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:31.606+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-UGVAE0T)(USER=admin))))
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:31.622+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:31.622+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Time: 01-DEC-2024 10:58:31
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:31.622+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:31.622+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:31.622+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:31.622+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:31.637+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:31.637+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:31.637+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:31.637+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:31.637+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:31.637+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt secondary err code: 233
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:31.637+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:38.793+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:38.793+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-UGVAE0T)(USER=admin))))
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:38.793+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:38.793+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Time: 01-DEC-2024 10:58:38
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:38.793+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:38.793+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:38.809+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:38.809+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:38.809+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:38.809+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:38.809+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:38.809+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:38.809+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:38.809+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt secondary err code: 233
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:38.809+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:58:50.706+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] []
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:27.098+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:27.098+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-UGVAE0T)(USER=admin))))
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:27.098+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:27.114+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Time: 01-DEC-2024 10:59:27
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:27.114+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:27.114+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:27.114+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:27.114+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:27.114+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:27.114+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:27.129+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:27.129+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:27.129+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:27.129+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt secondary err code: 233
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:27.129+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:36.096+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:36.096+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-UGVAE0T)(USER=admin))))
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:36.096+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:36.096+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Time: 01-DEC-2024 10:59:36
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:36.096+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:36.112+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:36.112+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:36.112+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:36.112+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:36.112+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:36.112+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:36.112+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:36.127+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:36.127+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt secondary err code: 233
+ </txt>
+</msg>
+<msg time='2024-12-01T10:59:36.127+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:13.434+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:13.434+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-UGVAE0T)(USER=admin))))
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:13.449+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:13.449+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Time: 01-DEC-2024 11:00:13
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:13.449+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:13.449+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:13.449+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:13.449+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:13.449+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:13.449+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:13.465+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:13.465+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:13.465+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:13.465+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt secondary err code: 233
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:13.465+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:26.353+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:26.353+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-UGVAE0T)(USER=admin))))
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:26.353+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:26.353+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Time: 01-DEC-2024 11:00:26
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:26.368+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:26.368+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:26.368+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:26.368+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:26.368+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:26.368+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:26.368+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:26.368+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:26.384+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:26.384+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt secondary err code: 233
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:26.384+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:47.158+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:47.158+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-UGVAE0T)(USER=admin))))
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:47.158+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:47.158+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Time: 01-DEC-2024 11:00:47
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:47.158+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:47.174+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:47.174+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:47.174+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:47.174+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:47.174+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:47.174+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:47.174+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:47.174+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:47.189+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt secondary err code: 233
+ </txt>
+</msg>
+<msg time='2024-12-01T11:00:47.189+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T11:01:06.994+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2024-12-01T11:01:06.994+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-UGVAE0T)(USER=admin))))
+ </txt>
+</msg>
+<msg time='2024-12-01T11:01:06.994+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2024-12-01T11:01:06.994+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Time: 01-DEC-2024 11:01:06
+ </txt>
+</msg>
+<msg time='2024-12-01T11:01:06.994+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2024-12-01T11:01:07.010+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2024-12-01T11:01:07.010+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2024-12-01T11:01:07.010+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T11:01:07.010+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T11:01:07.010+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-01T11:01:07.010+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2024-12-01T11:01:07.010+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-01T11:01:07.010+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-01T11:01:07.026+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt secondary err code: 233
+ </txt>
+</msg>
+<msg time='2024-12-01T11:01:07.026+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-17T20:51:48.745+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] []
+ </txt>
+</msg>
+<msg time='2024-12-17T20:51:59.235+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2024-12-17T20:51:59.237+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-UGVAE0T)(USER=admin))))
+ </txt>
+</msg>
+<msg time='2024-12-17T20:51:59.239+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2024-12-17T20:51:59.241+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Time: 17-DEC-2024 20:51:59
+ </txt>
+</msg>
+<msg time='2024-12-17T20:51:59.243+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2024-12-17T20:51:59.244+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2024-12-17T20:51:59.246+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2024-12-17T20:51:59.247+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-17T20:51:59.256+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-17T20:51:59.259+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-17T20:51:59.261+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2024-12-17T20:51:59.264+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-17T20:51:59.267+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-17T20:51:59.269+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt secondary err code: 233
+ </txt>
+</msg>
+<msg time='2024-12-17T20:51:59.272+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-17T20:52:11.460+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2024-12-17T20:52:11.463+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-UGVAE0T)(USER=admin))))
+ </txt>
+</msg>
+<msg time='2024-12-17T20:52:11.467+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2024-12-17T20:52:11.469+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Time: 17-DEC-2024 20:52:11
+ </txt>
+</msg>
+<msg time='2024-12-17T20:52:11.471+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2024-12-17T20:52:11.473+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2024-12-17T20:52:11.475+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2024-12-17T20:52:11.477+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-17T20:52:11.479+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-17T20:52:11.481+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-17T20:52:11.482+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2024-12-17T20:52:11.486+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-17T20:52:11.488+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-17T20:52:11.490+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt secondary err code: 233
+ </txt>
+</msg>
+<msg time='2024-12-17T20:52:11.491+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-18T00:03:33.082+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] []
+ </txt>
+</msg>
+<msg time='2024-12-18T00:03:42.768+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2024-12-18T00:03:42.774+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-UGVAE0T)(USER=admin))))
+ </txt>
+</msg>
+<msg time='2024-12-18T00:03:42.778+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2024-12-18T00:03:42.784+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Time: 18-DEC-2024 00:03:42
+ </txt>
+</msg>
+<msg time='2024-12-18T00:03:42.789+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2024-12-18T00:03:42.794+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2024-12-18T00:03:42.797+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2024-12-18T00:03:42.802+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-18T00:03:42.805+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-18T00:03:42.807+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2024-12-18T00:03:42.809+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2024-12-18T00:03:42.811+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-12-18T00:03:42.812+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-12-18T00:03:42.814+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt secondary err code: 233
+ </txt>
+</msg>
+<msg time='2024-12-18T00:03:42.816+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-UGVAE0T'
+ host_addr='fe80::ac24:ecbb:bc04:5619%13'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
